@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Note test",
+      "note": "Hello",
+      "author": "Timmo",
+      "authorId": 1,
+      "date": "2022-01-08T03:32:16.904Z"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
